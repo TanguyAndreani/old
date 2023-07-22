@@ -1,3 +1,5 @@
+/* Originally published on 2017-12-08 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
